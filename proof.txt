@@ -1,0 +1,7 @@
+OS Node: edite-VirtualBox
+OS Name: Linux
+Release: 6.14.0-29-generic
+------------------------------------------------
+KERNEL DEEP CHECK:
+Linux version 6.14.0-29-generic (buildd@lcy02-amd64-105) (x86_64-linux-gnu-gcc-13 (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0, GNU ld (GNU Binutils for Ubuntu) 2.42) #29~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Aug 14 16:52:50 UTC 2
+------------------------------------------------
